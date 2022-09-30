@@ -1,0 +1,54 @@
+body{
+    margin: auto;
+}
+.navbar{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.home{
+    text-align: center;
+    text-justify: auto;
+    color: red;
+}
+.navbar ul{
+    list-style: none;
+    display: inline-block;
+
+    width: 100%;
+    padding:0px;
+    background-color: yellowgreen;
+}
+
+.navbar ul li{
+    display: inline-table;
+    margin-left: 20px;
+    padding-right: 10px;
+    float: left;
+}
+
+.navbar ul li:hover{
+    background-color:gold;
+}
+
+.tabel{
+    margin-left: 350px;
+    margin-top: 100px;
+    border-color: black;
+    padding: auto;
+    text-align: center;
+}
+
+.tabel h2{
+    color: red;
+    margin-right: 300px;
+}
+
+.tabel thead th{
+    background-color: red
+}
+
+.tabel tr{
+    background-color: yellow;
+}
